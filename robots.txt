@@ -1,0 +1,4 @@
+User-agent: *
+User-agent: AdsBot-Google
+Disallow: /Research.html
+Disallow: /Teaching.html
